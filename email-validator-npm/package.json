@@ -1,0 +1,19 @@
+{
+    "name": "email-validator-npm",
+    "version": "1.0.0",
+    "description": "A simple npm package to validate email addresses",
+    "main": "index.js",
+    "scripts": {
+      "test": "mocha"
+    },
+    "keywords": [
+      "email",
+      "validation"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "devDependencies": {
+      "mocha": "^9.1.0",
+      "chai": "^4.3.4"
+    }
+  }  
